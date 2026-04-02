@@ -1,6 +1,6 @@
 # vibeinterpreter
 
-A shebang-compatible interpreter that converts natural language scripts into bash using the Claude API, then executes them.
+A shebang-compatible interpreter that converts natural language scripts into bash using the Gemini API (gemini-2.5-flash), then executes them.
 
 ## Prerequisites
 
